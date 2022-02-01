@@ -1,4 +1,4 @@
-# Olá! Eu sou Lucas Bergonsi, e esse perfil será usado como meu portifólio.💻📚
+# Olá! Eu sou Lucas Bergonsi, e esse perfil será usado como meu portfólio.💻📚
 <div align="center">
   <a href="https://github.com/Lucas-Bergonsi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Bergonsi&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
