@@ -21,7 +21,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/lucas-bergonsi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
- ![](https://github.com/Lucas-Bergonsi/snk/raw/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Lucas-bergonsi/Lucas-Bergonsi/blob/output/github-contribution-grid-snake.svg)
 </div>
   
